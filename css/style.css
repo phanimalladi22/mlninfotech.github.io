@@ -1,0 +1,5 @@
+body { font-family: 'Segoe UI', sans-serif; background-color: #f5f7fa; }
+a { text-decoration: none; }
+footer { background-color: #283593; color: white; padding: 2rem 0; text-align: center; }
+.section-title { margin-bottom: 2rem; text-align: center; }
+.service-icon { font-size: 2rem; color: #00b8f4; text-align: center; }
